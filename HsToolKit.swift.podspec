@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'HsToolKit/Classes/**/*'
 
-  s.dependency 'Alamofire', '~> 5.0'
+  s.dependency 'Alamofire', '~> 4.7'
   s.dependency 'RxSwift', '~> 5.0'
   s.dependency 'ObjectMapper', '~> 4.0'
   s.dependency 'SwiftNIOWebSocket'
